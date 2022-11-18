@@ -33,7 +33,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://files.spokenweb.ca/concordia/alanlord/2/Deliverables/Audio_Deliverables/U-1-2/",
+                  "id": "https://files.spokenweb.ca/concordia/alanlord/2/Deliverables/Audio_Deliverables/U-1-2/U-1-2_t05_access.wav",
+                  "type": "Sound",
+                  "format": "audio/wav",
                     "duration": 971.0
                 },
                 "target": "https://ellajandosaul.github.io/ultimatum-I-mario-campo/recording/canvas-1/canvas"

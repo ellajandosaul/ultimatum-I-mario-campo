@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ellajandosaul.github.io/ultimatum-I-mario-campo/recording/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Recording" ] },
+    "homepage": [
+      {
+        "id": "https://files.spokenweb.ca/",
+        "type": "Text",
+        "label": { "en": [ "Recording" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://spokenweb.ca/",
+        "type": "Agent",
+        "label": { "en": [ "SpokenWeb" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://ellajandosaul.github.io/ultimatum-I-mario-campo/recording/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 971.0,
+        "items": [
+          {
+            "id": "https://ellajandosaul.github.io/ultimatum-I-mario-campo/recording/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://ellajandosaul.github.io/ultimatum-I-mario-campo/recording/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/alanlord/2/Deliverables/Audio_Deliverables/U-1-2/",
+                    "duration": 971.0
+                },
+                "target": "https://ellajandosaul.github.io/ultimatum-I-mario-campo/recording/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
